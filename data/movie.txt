@@ -1,0 +1,106 @@
+http://www.imdb.com/title/	 #meterTitle
+http://www.imdb.com/title/	 #overview-top > .header > span[itemprop=name]
+http://www.imdb.com/title/	 #connections > h4
+http://www.imdb.com/title/	 #maindetails_sidebar_bottom > .aux-content-widget-2 > span > a
+http://www.imdb.com/title/	 #overview-top > div[itemprop=actors]
+http://www.imdb.com/title/	 #titleCast > .cast_list > tbody > tr > .castlist_label
+http://www.imdb.com/title/	 #titleDetails > .txt-block > time[itemprop=duration]
+http://www.imdb.com/title/	 #titleStoryLine > div[itemprop=keywords] > nobr > a
+http://www.imdb.com/title/	 #boardsTeaser > .see-more
+http://www.imdb.com/title/	 #goofs
+http://www.imdb.com/title/	 #meterRank
+http://www.imdb.com/title/	 #overview-top > .infobar > .nobr > a[title=See all release dates]
+http://www.imdb.com/title/	 #overview-top > .infobar > time[itemprop=duration]
+http://www.imdb.com/title/	 #titleDetails
+http://www.imdb.com/title/	 #meterSeeMoreRow > span
+http://www.imdb.com/title/	 #trivia
+http://www.imdb.com/title/	 #meterChange
+http://www.imdb.com/title/	 #img_primary > .pro-title-link > a
+http://www.imdb.com/title/	 #connections > .nobr
+http://www.imdb.com/title/	 #meterSeeMoreRow > a
+http://www.imdb.com/title/	 #titleFAQ > a
+http://www.imdb.com/title/	 #quotes
+http://www.imdb.com/title/	 #overview-top > .star-box > div[itemprop=aggregateRating]
+http://www.imdb.com/title/	 #overview-top > div[itemprop=director] > a[itemprop=url] > span[itemprop=name]
+http://www.imdb.com/title/	 #overview-top > .star-box > .titlePageSprite
+http://www.imdb.com/title/	 #goofs > .nobr
+http://www.imdb.com/title/	 #titleMediaStrip > .mediastrip_container > .combined-see-more
+http://www.imdb.com/title/	 #overview-bottom > a[itemprop=trailer] > .btn2_text
+http://www.imdb.com/title/	 #overview-top > div[itemprop=creator] > .inline
+http://www.imdb.com/title/	 #watchbar2 > div > p
+http://www.imdb.com/title/	 #quotes > .nobr
+http://www.imdb.com/title/	 #overview-top > div[itemprop=creator]
+http://www.imdb.com/title/	 #titleStoryLine > div[itemprop=keywords] > nobr
+http://www.imdb.com/title/	 #overview-top > div[itemprop=director] > .inline
+http://www.imdb.com/title/	 #content-1 > .article > .button-box > form > .btn
+http://www.imdb.com/title/	 #overview-top > .header > .nobr > a
+http://www.imdb.com/title/	 #boardsTeaser > .see-more > a
+http://www.imdb.com/title/	 #titleStoryLine > div[itemprop=keywords]
+http://www.imdb.com/title/	 #titleUserReviewsTeaser > .user-comments > span[itemprop=review] > strong[itemprop=name]
+http://www.imdb.com/title/	 #titleDetails > .see-more
+http://www.imdb.com/title/	 #maindetails_sidebar_bottom > .ab_message > .ninja_image_pack > .ninja_left > .ninja_image > .blurb
+http://www.imdb.com/title/	 #titleStoryLine > .txt-block > span[itemprop=contentRating]
+http://www.imdb.com/title/	 #quotes > h4
+http://www.imdb.com/title/	 #ratingWidget > p > strong
+http://www.imdb.com/title/	 #overview-top > .star-box > div[itemprop=aggregateRating] > strong > span[itemprop=ratingValue]
+http://www.imdb.com/title/	 #titleStoryLine > .txt-block > .ghost
+http://www.imdb.com/title/	 #titleUserReviewsTeaser > .user-comments > span[itemprop=review] > .comment-meta > a > span[itemprop=author]
+http://www.imdb.com/title/	 #titleDetails > .see-more > a[itemprop=url]
+http://www.imdb.com/title/	 #titleUserReviewsTeaser > .user-comments > .see-more
+http://www.imdb.com/title/	 #connections
+http://www.imdb.com/title/	 #titleUserReviewsTeaser > .user-comments > span[itemprop=review] > div > p[itemprop=reviewBody]
+http://www.imdb.com/title/	 #titleStoryLine > div[itemprop=description] > p
+http://www.imdb.com/title/	 #goofs > h4
+http://www.imdb.com/title/	 #titleUserReviewsTeaser > .user-comments > span[itemprop=review] > .comment-meta
+http://www.imdb.com/title/	 #boardsTeaser
+http://www.imdb.com/title/	 #overview-top > .header > .nobr
+http://www.imdb.com/title/	 #overview-top > .infobar > .ghost
+http://www.imdb.com/title/	 #overview-top > p[itemprop=description]
+http://www.imdb.com/title/	 #titleStoryLine > div[itemprop=genre] > span
+http://www.imdb.com/title/	 #ratingWidget > .imdbRatingPlugin > .rating
+http://www.imdb.com/title/	 #overview-top > .infobar
+http://www.imdb.com/title/	 #titleStoryLine > div[itemprop=genre]
+http://www.youtube.com/watch?v=	 #watch-more-related-button > .yt-uix-button-content
+http://www.youtube.com/watch?v=	 #watch-dislike > .yt-uix-button-content
+http://www.youtube.com/watch?v=	 #eow-title
+http://www.youtube.com/watch?v=	 #distiller-spinner > .yt-spinner > .yt-spinner-message
+http://www.youtube.com/watch?v=	 #watch-uploader-info > .watch-time-text
+http://www.youtube.com/watch?v=	 #watch7-subscription-container > span > .yt-subscription-button-subscriber-count-branded-horizontal
+http://www.youtube.com/watch?v=	 #eow-description
+http://www.youtube.com/watch?v=	 #watch7-views-info > .watch-view-count
+http://www.youtube.com/watch?v=	 #watch-more-related-loading
+http://www.youtube.com/watch?v=	 #watch7-user-header > .yt-user-info > a
+http://www.youtube.com/watch?v=	 #watch-like > .yt-uix-button-content
+http://www.rottentomatoes.com/m/	 #movieSynopsis
+http://www.rottentomatoes.com/m/	 #scorePanel > .col-xs-8 > .audience-score > .unstyled > .meter > .media-body > .meter-value > span[itemprop=ratingValue]
+http://www.rottentomatoes.com/m/	 #criticHeaders
+http://www.rottentomatoes.com/m/	 #contentReviews > .panel-heading
+http://www.rottentomatoes.com/m/	 #movie_videos > .panel-heading
+http://www.rottentomatoes.com/m/	 #quotesList > .panel-body > .media > .media-body > .clickForMore > .unstyled > p
+http://www.rottentomatoes.com/m/	 #movie_videos > .panel-body > .clickForMore > .unstyled > p
+http://www.rottentomatoes.com/m/	 #targetAffiliates > .price-col > .buy
+http://www.rottentomatoes.com/m/	 #itunesAffiliates > .price-col > .rent
+http://www.rottentomatoes.com/m/	 #top-critics-numbers > .row > .col-xs-12 > .critic_consensus
+http://www.rottentomatoes.com/m/	 #contentNews > .clickForMore > .fr > p
+http://www.rottentomatoes.com/m/	 #audience_reviews > .panel-heading
+http://www.rottentomatoes.com/m/	 #contentReviews > .panel-body > .view-all > .view_all_critic_reviews
+http://www.rottentomatoes.com/m/	 #mainColumn > .media > .media-body > .movie_info > .left_col > .dl-horizontal > dd[itemprop=datePublished]
+http://www.rottentomatoes.com/m/	 #mainColumn > .media > .media-body > .movie_info > .left_col > div > span[itemprop=productionCompany]
+http://www.rottentomatoes.com/m/	 #mainColumn > .movie_title > span[itemprop=name]
+http://www.rottentomatoes.com/m/	 #mainColumn > .media > .media-body > .movie_info > .left_col > .dl-horizontal > dd > time[itemprop=duration]
+http://www.rottentomatoes.com/m/	 #movieSynopsisRemaining
+http://www.rottentomatoes.com/m/	 #flixsterAffiliates > .price-col > .buy
+http://www.rottentomatoes.com/m/	 #audience_reviews > .panel-heading > em
+http://www.rottentomatoes.com/m/	 #contentReviews > .panel-heading > em
+http://www.rottentomatoes.com/m/	 #mainColumn > .media > .media-body > .movie_info > .left_col > .dl-horizontal > dd[itemprop=contentRating]
+http://www.rottentomatoes.com/m/	 #threadsPreview > div > p
+http://www.rottentomatoes.com/m/	 #all-critics-numbers > .row > .col-xs-12 > .critic_consensus
+http://www.rottentomatoes.com/m/	 #quotesList > .panel-heading > em
+http://www.rottentomatoes.com/m/	 #amazonAffiliates > .price-col > .buy
+http://www.rottentomatoes.com/m/	 #movie_videos > .panel-heading > i
+http://www.rottentomatoes.com/m/	 #mainColumn > .media > .media-body > .movie_info > .left_col > .dl-horizontal > dd > a[itemprop=url] > span[itemprop=name]
+http://www.rottentomatoes.com/m/	 #quotesList > .panel-heading
+http://www.rottentomatoes.com/m/	 #scorePanel > .col-xs-8 > .audience-score > .unstyled > .meter > .media-body > .meter-value
+http://www.rottentomatoes.com/m/	 #showMoreSynopsis
+http://www.rottentomatoes.com/m/	 #mainColumn > .movie_title > span[itemprop=name] > .h3
+http://www.amazon.com/	 #nav-search-in-content
